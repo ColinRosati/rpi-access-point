@@ -4,10 +4,9 @@
 # SIMPLE SETUP Connect to RPI wifi network
 # RASPBERRY PI 3 Stretch
 #
-#  configure Hostapd, dns
+#  configure Hostapd, dnsmasq
 
-# 1. make an executable shell script - run sudo chmod +x butter.sh
-# 2. sudo sh rpi-access-point.sh.sh
+# 1. $ sudo sh rpi-access-point.sh.sh
 
 # This script must be run by "sudo" and must
 
